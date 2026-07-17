@@ -114,3 +114,9 @@ MediaPipe Hands mendeteksi 21 titik per tangan. Titik yang dipakai di sini:
 
 ## Lisensi
 Lihat file [LICENSE](LICENSE).
+
+---
+
+<p align="center">
+  Developed with ❤️ by <b>Thomas Dava Mahendra Putra</b>
+</p>
